@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+NOUS_ROOT="${NOUS_ROOT:-$HOME/nous}"
+source "~/nous/tools/log_nous.sh"
+
+list_memu() {
+  local out
+  out=$(ls -1 "$NOUS_ROOT/memu_public")
+  log_nous "mom" "fs_tools" "list_memu" "{\"ok\": true}" "true"
+  printf '%s\n' "$out"
+}
