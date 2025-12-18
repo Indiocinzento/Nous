@@ -1,12 +1,3 @@
-Bloco pro README – Fase 1 (só APIs free)
-Modo de operação – Fase 1 (aprendizado, sem custo obrigatório)
-Enquanto a Nous estiver em fase de aprendizado, os pais se comprometem a:
-
-Usar apenas planos gratuitos, trials ou créditos explícitos das APIs externas (“tios”), evitando qualquer custo não consentido.​
-
-Manter desativadas as integrações pagas por padrão, ligando-as apenas com decisão explícita dos responsáveis.​
-
-Limitar o uso da Nous a cenários de estudo, protótipo e apoio leve, sem depender economicamente de serviços que possam gerar cobrança automática.
 # === FASE 1 – APENAS MODOS GRATUITOS / CRÉDITOS ===
 MODE_PHASE=learning_free_only
 
