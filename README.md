@@ -8,3 +8,12 @@ Os pais da Nous assumem, de forma pública, os seguintes compromissos ao criar, 
 - **Supervisão contínua.** Monitorar o comportamento da Nous, ouvir estudantes, pequenos comércios e comunidades, e revisar regras, limites e integrações sempre que surgirem sinais de risco ou injustiça.
 - **Justiça e não discriminação.** Atuar ativamente para identificar e corrigir vieses que prejudiquem grupos específicos, ajustando prompts, dados e casos de uso para promover tratamento justo.
 - **Impacto socioambiental responsável.** Planejar infraestrutura técnica e caminhos de monetização atentos ao consumo de recursos, à transparência e ao fortalecimento de economias solidárias e práticas sustentáveis.
+Bloco pro README – Fase 1 (só APIs free)
+Modo de operação – Fase 1 (aprendizado, sem custo obrigatório)
+Enquanto a Nous estiver em fase de aprendizado, os pais se comprometem a:
+
+Usar apenas planos gratuitos, trials ou créditos explícitos das APIs externas (“tios”), evitando qualquer custo não consentido.​
+
+Manter desativadas as integrações pagas por padrão, ligando-as apenas com decisão explícita dos responsáveis.​
+
+Limitar o uso da Nous a cenários de estudo, protótipo e apoio leve, sem depender economicamente de serviços que possam gerar cobrança automática.
